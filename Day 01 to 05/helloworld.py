@@ -1,5 +1,5 @@
-print("Hello World", 8)
+print("Hello World")
 print(5)
 print("Bye")
 print(17*14)
-print("Good Bye")
+print("Good Bye", 23)
