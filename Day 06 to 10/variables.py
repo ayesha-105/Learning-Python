@@ -15,3 +15,13 @@ print("the type of b is ", type(c))
 print("the type of b is ", type(d))
 print("the type of b is ", type(e))
 print("the type of b is ", type(f))
+
+
+list1 = [8, 2.3, [-4, 5], ["apple", "banana"]] # sequenced data type: list 
+print(list1)
+
+tuple1 = (("parrot", "sparrow"), ("Lion", "Tiger")) # sequenced data type: tuple 
+print(tuple1)                                       # tuple is immutable
+
+dict1 = {"name":"Sakshi", "age":20, "canVote":True} # non-sequenced data type: dictionary it's also called mapped data dict
+print(dict1)
